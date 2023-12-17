@@ -9,10 +9,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- * @author maher
- *
- */
+
 public abstract class DAO<Type> implements epd.dao.DAO<Type> {
 	
 	private String url;
