@@ -9,10 +9,7 @@ import jakarta.servlet.ServletRequest;
 import jakarta.servlet.ServletResponse;
 import jakarta.servlet.http.HttpServletResponse;
 
-/**
- * @author maher
- *
- */
+
 public class Cors implements Filter {
 
 	public void doFilter(ServletRequest request, ServletResponse resp, FilterChain chain)

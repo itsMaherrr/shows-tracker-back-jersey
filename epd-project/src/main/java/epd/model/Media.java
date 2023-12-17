@@ -3,10 +3,7 @@
  */
 package epd.model;
 
-/**
- * @author maher
- *
- */
+
 public class Media {
 	
 	private String id;

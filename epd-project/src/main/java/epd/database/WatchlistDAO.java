@@ -11,10 +11,7 @@ import java.util.Optional;
 
 import epd.model.Media;
 
-/**
- * @author maher
- *
- */
+
 public class WatchlistDAO extends ListDAO {
 
 	public WatchlistDAO(String url, String username, String password) {

@@ -14,10 +14,7 @@ import java.util.Optional;
 
 import epd.model.Media;
 
-/**
- * @author maher
- *
- */
+
 public abstract class ListDAO {
 	
 	private String url;

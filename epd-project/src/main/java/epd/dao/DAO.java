@@ -6,10 +6,7 @@ package epd.dao;
 import java.util.ArrayList;
 import java.util.Optional;
 
-/**
- * @author maher
- *
- */
+
 public interface DAO <Type> {
 	
 	public Optional<Type> get(String id) throws Exception;

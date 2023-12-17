@@ -14,10 +14,7 @@ import io.jsonwebtoken.Jws;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
-/**
- * @author maher
- *
- */
+
 public class JWT {
 	
 	private final static String SECRET_KEY = "someRandomSignatureForTheAuthentificationIdkXD";

@@ -11,10 +11,7 @@ import java.util.ArrayList;
 import java.util.Optional;
 import epd.model.User;
 
-/**
- * @author maher
- *
- */
+
 public class UserDAO extends DAO<User> {
 
 	public UserDAO(String url, String username, String password) {
